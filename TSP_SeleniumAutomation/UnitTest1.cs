@@ -10,10 +10,10 @@ namespace TSP_SeleniumAutomation
         public void Verifytologin()
         {
             Console.WriteLine(" my first code");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
+            Console.WriteLine("my first code");
+            Console.WriteLine("my first code");
+            Console.WriteLine("my first code");
+            Console.WriteLine("my first code");
         }
     }
 }
